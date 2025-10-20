@@ -1,3 +1,5 @@
+
+
 ## Machine Learning
 ___
  In this project, we work with various machine learning algorithms and learn how to build an artificial intelligence model. The project includes 10 diverse algorithms applied to different datasets, featuring methods such as :
@@ -13,6 +15,7 @@ ___
 ##  All the projects are written in both Persian and English.
 
 ~Please take a look at Music.ipynb first.👩🏻‍💻🙏🏻~
+
 ---
 ___
 
@@ -28,6 +31,7 @@ model.preduct(x_test)
 
 ```
 !['image'](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 
 
