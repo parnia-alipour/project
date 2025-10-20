@@ -9,6 +9,7 @@ while True:
         elif 10 <= x <= 15:
             print('قابل قبول')
         elif 15 <= x <= 17:
+
             print('خوب')
         elif 17 <= x <= 20:
             print('عالی/خیلی خوب')
