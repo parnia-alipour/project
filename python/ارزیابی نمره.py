@@ -16,6 +16,6 @@ while True:
         else:
             print('لطفا نمره ای بین 0 تا 20 وارد کنید.')
 
-    except ValueError:
+    except ValueError: # اگر کاربر عدد وارد نکرد پیام رو پرینت کن
 
         print('لطفا عدد وارد کنید.')
