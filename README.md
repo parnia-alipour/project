@@ -1,4 +1,4 @@
-
+![image2](https://github.com/parnia-alipour/project/blob/master/github-header-banner%20(2).png?raw=true)
 
 ## Machine Learning
 ___
@@ -14,7 +14,7 @@ ___
 
 ##  All the projects are written in both Persian and English.
 
-~Please take a look at Music.ipynb first.👩🏻‍💻🙏🏻~
+Please take a look at Music.ipynb first.👩🏻‍💻🙏🏻
 
 ---
 ___
