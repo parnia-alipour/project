@@ -34,7 +34,7 @@ model.preduct(x_test)
 
 
 ```
-!['image'](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)       !['image3'](https://img.shields.io/badge/machine%20learning-purple)
+!['image'](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)       !['image3'](https://img.shields.io/badge/machine%20learning-purple)      !['image4'](https://img.shields.io/github/commit-activity/m/parnia-alipour/project/master)
 
 
 
