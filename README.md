@@ -1,5 +1,5 @@
 
-![image2](https://github.com/parnia-alipour/project/blob/master/github-header-banner%20(2).png?raw=true)
+![image2](https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)
 
 
 ## Machine Learning
