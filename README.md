@@ -18,7 +18,7 @@ ___
 
 Please take a look at Music.ipynb first.👩🏻‍💻🙏🏻
 
-['read this'](https://parnia-alipour.github.io/project/)
+[read this](https://parnia-alipour.github.io/project/)
 
 ---
 ___
